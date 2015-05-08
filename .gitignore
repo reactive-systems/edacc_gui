@@ -7,5 +7,3 @@ build/
 main.sess
 dist/
 *.mwb.bak
-.idea/workspace.xml
-.idea/tasks.xml
