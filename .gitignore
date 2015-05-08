@@ -1,5 +1,5 @@
-nbproject
-build
+nbproject/private/
+build/
 .metadata
 *.swp
 *~
